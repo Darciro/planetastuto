@@ -234,7 +234,7 @@ body {
 }
 
 a {
-  color: #8dc63f;
+  color: #77C29C;
   transition: all 0.3s cubic-bezier(0.23, 1, 0.32, 1);
 }
 
@@ -338,7 +338,7 @@ header h1 {
 }
 
 header h1 span {
-  color: #8dc63f;
+  color: #77C29C;
 }
 
 @media screen and (max-width:600px) {
